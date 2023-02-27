@@ -2,4 +2,4 @@ This is a Microsoft Power BI Repository in which you can see project in which I 
 
 • Data Cleaning
 • Developing Modeling 
-• Crearing Dashboard
+• Creating Dashboard
